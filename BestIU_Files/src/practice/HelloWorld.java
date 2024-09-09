@@ -3,7 +3,8 @@ package practice;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("hello students");
+		System.out.println("hello students to C2TC");
+	
 
 	}
 
