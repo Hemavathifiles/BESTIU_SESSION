@@ -8,7 +8,7 @@ public class WhileDemo {
 		while (i >0) {
 		
 		  System.out.println(i);
-		  i--;//10 9 8 7 6 5 4 3 2 1po
+		  i--;//10 9 8 7 6 5 4 3 2 1
 		}
 		
 
