@@ -1,4 +1,4 @@
-package practice;
+package org.tns.capgemini.c2tc.java;
 
 public class BitWiseDemo {
     public static void main(String[] args) {
