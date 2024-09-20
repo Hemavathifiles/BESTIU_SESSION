@@ -27,6 +27,7 @@ public class KIA_Motors {
 		obj.model="KIA";
 		obj.engine="Smart Stream";
 		obj.speed=60;
+
 		System.out.println(obj.noCar);
 		System.out.println(obj.model);
 		System.out.println(obj.engine);
