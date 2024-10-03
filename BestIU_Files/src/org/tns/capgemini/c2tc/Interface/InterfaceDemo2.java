@@ -1,6 +1,6 @@
 package org.tns.capgemini.c2tc.Interface;
 
-interface Vehicle
+ interface Vehicle
 {
 	void start();
 	void stop();
