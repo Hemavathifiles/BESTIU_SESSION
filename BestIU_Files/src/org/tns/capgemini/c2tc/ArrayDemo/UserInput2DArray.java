@@ -1,4 +1,4 @@
-package ArrayDemo;
+package org.tns.capgemini.c2tc.ArrayDemo;
 import java.util.Scanner;
 
 public class UserInput2DArray {

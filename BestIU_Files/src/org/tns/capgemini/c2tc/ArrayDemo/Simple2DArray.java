@@ -1,4 +1,4 @@
-package ArrayDemo;
+package org.tns.capgemini.c2tc.ArrayDemo;
 
 public class Simple2DArray {
 
